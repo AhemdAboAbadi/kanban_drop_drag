@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import React from 'react';
 import TopBar from './TopBar';
 import SideBar from './SideBar';

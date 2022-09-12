@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from 'react';
 import { UserGroupIcon, ServerIcon, CalendarIcon, ChartSquareBarIcon,
 CogIcon } from '@heroicons/react/outline';

@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from 'react';
 import {SearchIcon, AtSymbolIcon, BellIcon} from '@heroicons/react/outline';
 import Image from 'next/image';
